@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App Version-demo 6</h1>
+                <h1>Simple PHP App Version-demo 10</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
@@ -24,7 +24,6 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-
             </div>
         </div>
 
