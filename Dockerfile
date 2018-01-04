@@ -1,4 +1,5 @@
-FROM ubuntu:latest
+FROM 345529843698.dkr.ecr.cn-north-1.amazonaws.com.cn/aws-bjs-ecs-cicd-jenkins:latest
+# FROM ubuntu:latest
 
 # Install dependencies
 RUN apt-get update -y
