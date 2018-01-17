@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>AWS China ECS Demo - Version 11</h1>
+                <h1>AWS China ECS Demo - Version 12</h1>
                 <h2>AWS ECS CICD with Jenkins</h2>
                 <p>Congratulations! Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
